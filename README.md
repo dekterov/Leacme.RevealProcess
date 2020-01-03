@@ -5,6 +5,7 @@
 This application features the ability to monitor and kill processes currently running on local machine.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703874-5c968700-2d94-11ea-99df-8d628982c525.png)
 
 ## Application Compiling
 
